@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/plugin3.0_ios/!svn/ver/41/trunk/code/public/EUExDownloaderMgr/EUExDownloaderMgr/sourceCode/JSON
+END
+JSON.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/plugin3.0_ios/!svn/ver/41/trunk/code/public/EUExDownloaderMgr/EUExDownloaderMgr/sourceCode/JSON/JSON.h
+END
+SBJsonBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/plugin3.0_ios/!svn/ver/41/trunk/code/public/EUExDownloaderMgr/EUExDownloaderMgr/sourceCode/JSON/SBJsonBase.h
+END
+SBJsonParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/plugin3.0_ios/!svn/ver/41/trunk/code/public/EUExDownloaderMgr/EUExDownloaderMgr/sourceCode/JSON/SBJsonParser.h
+END
+SBJsonWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/plugin3.0_ios/!svn/ver/41/trunk/code/public/EUExDownloaderMgr/EUExDownloaderMgr/sourceCode/JSON/SBJsonWriter.h
+END
+SBJSON.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/plugin3.0_ios/!svn/ver/41/trunk/code/public/EUExDownloaderMgr/EUExDownloaderMgr/sourceCode/JSON/SBJSON.h
+END
+NSObject+SBJSON.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/plugin3.0_ios/!svn/ver/41/trunk/code/public/EUExDownloaderMgr/EUExDownloaderMgr/sourceCode/JSON/NSObject+SBJSON.h
+END
+NSString+SBJSON.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/plugin3.0_ios/!svn/ver/41/trunk/code/public/EUExDownloaderMgr/EUExDownloaderMgr/sourceCode/JSON/NSString+SBJSON.h
+END
